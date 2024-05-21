@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc main.c -o MarneSoftware
+gcc marnesoftware.c -o MarneSoftware
